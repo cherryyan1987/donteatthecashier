@@ -5,7 +5,7 @@ Donteatthecashier is a dark comedy monster visual novel where you work the night
 Every customer you meet can change your story. Some are friendly, some are dangerous, and some unlock unexpected narrative paths.
 
 ---
-
+![Donteatthecashier Banner](qvLaZg.png)
 ## 🎮 Play Now
 
 👉 Primary Game (Browser Version)  
